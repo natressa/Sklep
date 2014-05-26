@@ -1,0 +1,7 @@
+c:\users\karol\documents\visual studio 2013\Projects\Sklep\Sklep\bin\Debug\Sklep.exe.config
+c:\users\karol\documents\visual studio 2013\Projects\Sklep\Sklep\bin\Debug\Sklep.exe
+c:\users\karol\documents\visual studio 2013\Projects\Sklep\Sklep\bin\Debug\Sklep.pdb
+c:\users\karol\documents\visual studio 2013\Projects\Sklep\Sklep\obj\Debug\Sklep.csprojResolveAssemblyReference.cache
+c:\users\karol\documents\visual studio 2013\Projects\Sklep\Sklep\obj\Debug\Sklep.exe
+c:\users\karol\documents\visual studio 2013\Projects\Sklep\Sklep\obj\Debug\Sklep.pdb
+C:\Users\Karol\documents\visual studio 2013\Projects\Sklep\Sklep\bin\Debug\MySql.Data.dll

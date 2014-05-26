@@ -1,0 +1,7 @@
+c:\Users\Karol\documents\visual studio 2013\Projects\Sklep\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+c:\Users\Karol\documents\visual studio 2013\Projects\Sklep\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+c:\Users\Karol\documents\visual studio 2013\Projects\Sklep\UnitTestProject1\bin\Debug\Sklep.exe
+c:\Users\Karol\documents\visual studio 2013\Projects\Sklep\UnitTestProject1\bin\Debug\Sklep.pdb
+c:\Users\Karol\documents\visual studio 2013\Projects\Sklep\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+c:\Users\Karol\documents\visual studio 2013\Projects\Sklep\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+c:\Users\Karol\documents\visual studio 2013\Projects\Sklep\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
