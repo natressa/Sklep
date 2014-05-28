@@ -30,7 +30,7 @@ namespace Sklep
             server = "localhost";
             database = "nauka";
             uid = "root";
-            password = "kozadowoza";
+            password = "root";
             string connectionString;
             connectionString = "SERVER=" + server + ";" + "DATABASE=" +
                     database + ";" + "UID=" + uid + ";" + "PASSWORD=" + password +";";
